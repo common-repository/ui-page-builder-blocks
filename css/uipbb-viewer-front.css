@@ -1,0 +1,29 @@
+/* Frontend styles */
+
+.uipbb-front-viewer-single{
+	width: 31% !important;
+	float: left !important;
+	margin:5px 1% !important;
+	height: 175px !important;
+}
+
+.uipbb-front-viewer-single img{
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.uipbb-clear{
+	clear: both;
+}
+
+.viewer-container{
+	width: auto !important;
+}
+
+.viewer-canvas img{
+	margin-left: auto !important;
+}
+
+.viewer-list{
+	margin: auto !important;
+}
